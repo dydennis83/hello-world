@@ -1,2 +1,5 @@
 # hello-world
-Github how to
+
+Hello people!
+
+I'm Dylan, practicing git and github.
